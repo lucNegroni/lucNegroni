@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lucNegroniCnrs, an old engineer ;-) specialized in mass spectrometry and proteomics.
-- 👀 I’m interested in bio-informatics and gadening.
+- 👋 Hi, I’m Luc Negroni, an old engineer ;-) specialized in mass spectrometry and proteomics.
+- 👀 I’m interested in bio-informatics and gardening.
 - 🌱 I’m currently learning bash, r and python, what a fun :-)
 - 💞️ I’m looking to collaborate on "omic"s data integration.
 - 📫 How to reach me : luc.negroni@igbmc.fr
