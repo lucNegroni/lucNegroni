@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luc Negroni, specilzed in mass spectrometry and proteomics
+- 👋 Hi, I’m Luc Negroni, specialized in mass spectrometry and proteomics
 - 👀 But I’m discovering (bio)informatics
 - 🌱 and I’m currently learning bash, r and python, what a fun :-).
 - 📫 How to reach me : luc.negroni@igbmc.fr
