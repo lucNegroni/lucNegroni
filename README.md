@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Luc Negroni, an old engineer ;-) specialized in mass spectrometry and proteomics.
-- 👀 I’m discovering (bio)informatics
-- 🌱 I’m currently learning bash, r and python, what a fun :-).
+- 👋 Hi, I’m Luc Negroni, specilzed in mass spectrometry and proteomics
+- 👀 But I’m discovering (bio)informatics
+- 🌱 and I’m currently learning bash, r and python, what a fun :-).
 - 📫 How to reach me : luc.negroni@igbmc.fr
 
 <!---
